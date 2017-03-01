@@ -1,0 +1,6 @@
+[package]
+name = "libbitcoin"
+version = "0.1.0"
+authors = ["Nick Cardin <nick@cardin.email>"]
+
+[dependencies]
